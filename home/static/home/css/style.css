@@ -1,0 +1,20 @@
+.main {
+    padding-left: 20vw;
+    padding-right: 20vw;
+    font-family: 'Arial', Roboto, sans-serif;
+}
+
+body {
+    background-color: whitesmoke;
+    font-size: 20px;
+}
+
+header {
+    text-align: right;
+}
+
+.main {
+    padding-left: 20vw;
+    padding-right: 20vw;
+    font-family: sans-serif, Arial, Roboto;
+}
