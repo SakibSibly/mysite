@@ -19,15 +19,34 @@ header {
     text-align: right;
 }
 
+header hr {
+    margin-top: .5rem;
+}
+
 header p a {
+    display: inline-block;
     text-decoration: none;
     color: #000;
+    margin: 0.5rem 0rem;
+}
+
+section {
+    padding-bottom: 2rem;
+}
+
+hr {
+    margin-bottom: 1rem;
 }
 
 .intro {
     text-align: justify;
     text-justify: inter-word;
     line-height: 1.5;
+}
+
+#projects a {
+    display: inline-block;
+    margin-bottom: 1.5rem;
 }
 
 .main {
