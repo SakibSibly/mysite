@@ -15,6 +15,10 @@ body {
     font-size: 20px;
 }
 
+p {
+    line-height: 1.5;
+}
+
 header {
     text-align: right;
 }
@@ -53,4 +57,8 @@ hr {
     padding-left: 20vw;
     padding-right: 20vw;
     font-family: sans-serif, Arial, Roboto;
+}
+
+footer {
+    padding: 1rem;
 }
